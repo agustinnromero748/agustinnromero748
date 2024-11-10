@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 ХРАЗ: Конфиденциальный скрипт генерации сложных паролей.
-Стиль: мрачный, циничный, савввврdvddvаааvvdvdкассссссdvvdvdvvdvтический. ввмвммvffvfмыы кпкики вммвмвvdvdvм дьдлжьшто ввмвммв  ecevv eegeeg eegthtt edvdv упыкпкп ыпкпкыпыы мырыр dvdsvd
+Стиль: мрачный, циничный, савввврdvddvаааvvdvdкассссссмумумdvvdvdvvdvтический. ввмвммvffvfмыы кпкики вммвмвvdvdvм дьдлжьшто ввмвммв  ecevv eegeeg eegthtt edvdv упыкпкп ыпкпкыпыы мырыр dvdsvd
 """ 
 
 import string
